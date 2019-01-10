@@ -1,0 +1,13 @@
+Pour lancer l'application ouvrir index.html dans un navigateur Web
+
+
+
+Le niveau 1 est basique :
+
+le serpent se déplace avec les flèches et mange les carrés rouges
+
+
+Le niveau 2 contient un peu plus de fonctionnalités :
+
+Game Over lorsqu'il touche les murs
+Le score est implémenté mais ne s'affiche pas
